@@ -1,0 +1,6 @@
+name= input('What is your name? ')
+print('Nice to meet you '+name+ ', my name is chatbot.')
+years= input ('How old are you? ')
+print('Wow,'+years+ ' years old! I was born today.')
+feeling= input('How are you feeling today?' )
+print('Glad to hear you are feeling' +feeling+ ". That is wonderful to hear!")
